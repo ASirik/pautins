@@ -3,6 +3,7 @@
 /include/setting/server.set.php
 501.shtml
 404.shtml
+500.shtml
 /install/*
 # Mac
 .DS_Store
