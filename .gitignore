@@ -1,0 +1,10 @@
+/file/cache/*
+/file/session/*
+/include/setting/server.set.php
+# Mac
+.DS_Store
+
+#project
+.project
+
+.idea
