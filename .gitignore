@@ -1,6 +1,8 @@
 /file/cache/*
 /file/session/*
 /include/setting/server.set.php
+501.shtml
+404.shtml
 # Mac
 .DS_Store
 
